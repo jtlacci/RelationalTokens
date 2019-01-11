@@ -112,7 +112,7 @@ contract erc721y {
         return collection[_item];
     }
 
-    //TODO add splitting function
+    //TODO add splitting functio
 
 
     
